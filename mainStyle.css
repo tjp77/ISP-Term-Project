@@ -1,0 +1,65 @@
+body
+{
+	
+    background-image: url("https://us.123rf.com/450wm/mirage3/mirage31104/mirage3110400020/9297476-unity-blank-grey-jigsaw-puzzle-pieces-all-connected-great-details-of-textured-cardboard-material.jpg?ver=6");
+}
+
+center {
+	margin: center;
+	border: 5px MediumSeaGreen solid;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+    color: Navy;
+    font-weight: bold;
+    background-color: skyBlue;
+}
+
+h2 {
+	color:Tomato;
+    font-size:45px;
+}
+
+h3 {
+	color:Tomato;
+    font-size:25px;
+}
+
+footer {
+	margin: center;
+	border: 5px orange dotted;
+	text-align: center;
+	font-size: 15px;
+}
+
+title {
+	margin: center;
+	border: 5px red solid;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 40px;
+}
+
+u {
+	list-style-type: square;
+}
+
+a {
+	margin: center;
+	border: 5px DodgerBlue groove;
+	text-align: center;
+	font-size: 30px;
+	color:SlateBlue;
+    background-color: yellow;
+}
+
+.button {
+    background-color: skyBlue;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
